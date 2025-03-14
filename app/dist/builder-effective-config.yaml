@@ -1,0 +1,13 @@
+directories:
+  output: dist
+  buildResources: build
+appId: com.yourcompany.facerecognition
+productName: Face Recognition
+mac:
+  icon: build/icon.icns
+win:
+  icon: build/icon.ico
+linux:
+  icon: build
+files: []
+electronVersion: 27.3.11
